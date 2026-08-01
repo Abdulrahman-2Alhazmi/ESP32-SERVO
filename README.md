@@ -111,7 +111,7 @@ Watch the real hardware implementation here:
 
 View the simulation design here:
 
-🔗 **[Open the Cirkit Designer Project]([https://app.cirkitdesigner.com/project/YOUR_PROJECT_LINK](https://wokwi.com/projects/470877376494686209))**
+([https://app.cirkitdesigner.com/project/YOUR_PROJECT_LINK](https://wokwi.com/projects/470877376494686209))**
 
 ---
 
